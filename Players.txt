@@ -1,0 +1,16 @@
+						================
+						|TOP 10 PLAYERS|
+						================ 
+
+C - Center , PF - Power Forward , SF - Small Forward , PG - Point Guard , SG - Shooting Guard
+
+1	Nikola Jokic, C	DEN
+2	Giannis Antetokounmpo, PF MIL
+3	LeBron James, SF	LAL
+4	Joel Embiid, C	PHI
+5	Kevin Durant, PF BKN
+6	Luka Doncic, PG	DAL
+7	Trae Young, PG	ATL
+8	James Harden, SG PHI
+9	Stephen Curry, PG GSW
+10	Ja Morant, PG	MEM
